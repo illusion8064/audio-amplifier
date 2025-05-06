@@ -65,7 +65,6 @@ four-stage-audio-amplifier/
 - [full circuit test with 10Ω load](https://youtu.be/EKdBo0fZbkk)
 
 **contributors**: priyanshi jain, ritama sanyal  
-**license**: mit  
 
 for details, see [project-report.pdf](documents/project-report.pdf).
 
