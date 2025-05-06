@@ -52,10 +52,6 @@ four-stage-audio-amplifier/
 │   │   ├── fra-upper.png
 │   │   └── final-output.png
 │   │
-│   └── video-demos/          # demonstration videos
-│   │   ├── frequency-response-analysis.mp4
-│   │   └── audio-test-with-a-song.mp4
-│   │
 │   └── bill-of-materials.md
 │
 ├── references/               # research and reference materials
@@ -64,9 +60,12 @@ four-stage-audio-amplifier/
 │
 └── readme.md                
 ```
+## demonstration videos
+- [frequency response analysis](https://youtu.be/Lo99qeKNm6Q)
+- [full circuit test with 10Ω load](https://youtu.be/EKdBo0fZbkk)
 
 **contributors**: priyanshi jain, ritama sanyal  
 **license**: mit  
 
-for details, see [project_report.pdf](documentss/project-report.pdf).
+for details, see [project-report.pdf](documents/project-report.pdf).
 
